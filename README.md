@@ -1,6 +1,6 @@
 <div align="right">
 
-   [![Solved.ac
+[![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jaehui327)](https://solved.ac/jaehui327) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehui327&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
@@ -25,10 +25,14 @@
   
   <br>
 
-  ### 🏆 Trophy 🏆
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jaehui327&column=9&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Trophy 🏆
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaehui327&column=9&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 👩🏻‍💻 Portfolio
+
+  <h3 align="center"><a href="https://drive.google.com/file/d/1WFF85V2QWkUnYsVEiN92PKD9Tdzgz6pr/view?usp=sharing">👉 PDF 다운로드 링크 👈</a></h3>
+  <img src="./img/3.jpg" width="400"> <img src="./img/4.jpg" width="400">
   
 </div>
 
