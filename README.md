@@ -33,8 +33,6 @@
 
   <h3 align="center"><a href="https://drive.google.com/file/d/1ZeESx83d7l0jSANo3AdLTz7F0JCtWaTs/view?usp=sharing">👉 PDF 다운로드 링크 👈</a></h3>
 
-위 링크가 동작하지 않을 시, [이 저장소](https://github.com/jaehui327/Portfolio)를 확인해 주세요<br>
-
 <img src="./img/3.png" width="400"> <img src="./img/4.png" width="400">
 
 </div>
