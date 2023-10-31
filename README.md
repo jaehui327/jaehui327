@@ -27,7 +27,7 @@
 
 ### 🏆 Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaehui327&column=9&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaehui327&column=10&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👩🏻‍💻 Portfolio
 
