@@ -31,7 +31,7 @@
 
 ### 👩🏻‍💻 Portfolio
 
-  <h3 align="center"><a href="https://drive.google.com/file/d/1ZeESx83d7l0jSANo3AdLTz7F0JCtWaTs/view?usp=sharing">👉 PDF 다운로드 링크 👈</a></h3>
+  <h3 align="center"><a href="https://bit.ly/3QjqmfJ">👉 PDF 다운로드 링크 👈</a></h3>
 
 <img src="./img/3.png" width="400"> <img src="./img/4.png" width="400">
 
