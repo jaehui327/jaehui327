@@ -29,15 +29,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaehui327&column=10&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 👩🏻‍💻 Portfolio
-
-  <h3 align="center"><a href="https://bit.ly/3QjqmfJ">👉 PDF 다운로드 링크 👈</a></h3>
-
-<img src="./img/3.png" width="400"> <img src="./img/4.png" width="400">
-
 </div>
 
 <!--
+### 👩🏻‍💻 Portfolio
+<h3 align="center"><a href="https://bit.ly/3QjqmfJ">👉 PDF 다운로드 링크 👈</a></h3>
+<img src="./img/3.png" width="400"> <img src="./img/4.png" width="400">
+
 **jaehui327/jaehui327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
